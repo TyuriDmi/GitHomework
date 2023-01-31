@@ -46,7 +46,7 @@
 
 __**всем Златана :)**__
 
-![тестируем добавление ихзображения](https://img.championat.com/s/735x490/news/big/x/h/ibragimovich-zabil-500-golov-na-klubnom-urovne_16127208201144581132.jpg)
+![тестируем добавление изображения](https://img.championat.com/s/735x490/news/big/x/h/ibragimovich-zabil-500-golov-na-klubnom-urovne_16127208201144581132.jpg)
 
 > Семинар 2. Работаем с ветками.
 
