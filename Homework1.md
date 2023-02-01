@@ -55,9 +55,9 @@
 
 Подробнее все возможности можно изучить:[] (https://git-scm.com/book/ru/v2/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)
 
-__**всем Златана :)**__
+__**Златан доволен :)**__
 
-![тестируем добавление изображения](https://img.championat.com/s/735x490/news/big/x/h/ibragimovich-zabil-500-golov-na-klubnom-urovne_16127208201144581132.jpg)
+![тестируем добавление изображения](https://img.championat.com/s/735x490/news/big/r/d/zlatan-ibragimovich_1532178916802258655.jpg)
 
 
 
