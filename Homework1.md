@@ -59,5 +59,8 @@ __**Златан доволен :)**__
 
 ![тестируем добавление изображения](https://img.championat.com/s/735x490/news/big/r/d/zlatan-ibragimovich_1532178916802258655.jpg)
 
+__**втулка тоже ничего :)**__
 
+![тестируем добавление фото из папки](vtulka.jpg)
 
+А подробнее изучить Markdown можно тут: https://gist.github.com/Jekins/2bf2d0638163f1294637
