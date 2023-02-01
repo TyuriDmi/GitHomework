@@ -57,7 +57,7 @@
 
 __**Златан доволен :)**__
 
-![тестируем добавление изображения](https://img.championat.com/s/735x490/news/big/r/d/zlatan-ibragimovich_1532178916802258655.jpg)
+![тестируем добавление изображения](https://img.championat.com/c/1200x900/news/big/t/t/romano-zlatan-ibragimovich-d.jpg)
 
 __**втулка тоже ничего :)**__
 
